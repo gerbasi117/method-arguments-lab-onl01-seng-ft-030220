@@ -6,4 +6,5 @@ def introduction(name)
     
     #introduction_with_languages
     
-    def 
+    def "Hi, my name is #{name}."
+      puts "Hi, my name is #{name}, and I am learning to program with"
